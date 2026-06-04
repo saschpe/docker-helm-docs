@@ -5,8 +5,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/saschpe/helm)](https://hub.docker.com/r/saschpe/helm)
 [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/saschpe/helm)](https://hub.docker.com/r/saschpe/helm)
 
-# Helm-docs OCI container image with pre-installed Git based on Alpine Linux.
-
+Helm-docs OCI container image with pre-installed Git based on Alpine Linux.
 
 ## Usage
 
