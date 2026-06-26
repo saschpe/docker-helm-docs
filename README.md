@@ -1,9 +1,9 @@
 # Helm-docs and Git OCI / Docker image
 
-[![License](https://img.shields.io/github/license/saschpe/docker-helm)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/saschpe/docker-helm/main.yml?branch=main)](https://github.com/saschpe/docker-helm/actions?query=branch%3Amain)
-[![Docker Pulls](https://img.shields.io/docker/pulls/saschpe/helm)](https://hub.docker.com/r/saschpe/helm)
-[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/saschpe/helm)](https://hub.docker.com/r/saschpe/helm)
+[![License](https://img.shields.io/github/license/saschpe/docker-helm-docs)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/saschpe/docker-helm-docs/main.yml?branch=main)](https://github.com/saschpe/docker-helm-docs/actions?query=branch%3Amain)
+[![Docker Pulls](https://img.shields.io/docker/pulls/saschpe/helm-docs)](https://hub.docker.com/r/saschpe/helm-docs)
+[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/saschpe/helm-docs)](https://hub.docker.com/r/saschpe/helm-docs)
 
 Helm-docs OCI container image with pre-installed Git based on Alpine Linux.
 
